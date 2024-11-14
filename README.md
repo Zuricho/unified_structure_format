@@ -2,6 +2,12 @@
 
 A unified file format for all kinds of molecule structure. Including protein, small molecule, crystal.
 
+## Requirement
+
+Only `numpy`
+
+Recommended `matplotlib` for visualization
+
 ## File format
 
 Unified file format including these subtypes, with no actual difference:
