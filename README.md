@@ -4,18 +4,23 @@ A unified file format for all kinds of molecule structure. Including protein, sm
 
 ## Requirement
 
-Only `numpy`
+Required environment:
 
-Recommended `matplotlib` for visualization
+- `numpy`
+
+Optional:
+
+- `matplotlib` for visualization
+- `mdtraj` for protein (will be removed later)
 
 ## File format
 
 Unified file format including these subtypes, with no actual difference:
 - General format `.usf`
 - For protein (only heavy atom) `.usfpro`
-- For protein (all atom) `usfproh`
-- For crystal `usfxta`
-- For molecule `usfmol`
+- For protein (all atom) `.usfproh`
+- For crystal `.usfxta`
+- For molecule `.usfmol`
 
 
 A `.usf` file is a python pickle file. 
