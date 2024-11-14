@@ -1,4 +1,4 @@
-# unified_structure_format
+# Unified Structure Format `.usf`
 
 A unified file format for all kinds of molecule structure. Including protein, small molecule, crystal.
 
