@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import pickle
 
 # INPUT
-FILE_PATH = "example/6zk6_core.usf"
-FILE_NAME = "6zk6_core"
+FILE_PATH = "example/Rockbridgeite.usf"
+FILE_NAME = "Rockbridgeite"
 
 
 
