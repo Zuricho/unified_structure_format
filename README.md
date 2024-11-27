@@ -37,6 +37,7 @@ Optional features:
 - `bond`: (N_bond, 2), e.g. (index_1, index_2)
 - `atom_name`: (N_atom * 1), only for protein, e.g. "CA"
 - `res_index`: (N_atom * 1), only for protein
+- `cell_index`: (N_atom * 1), only for crystal
 
 
 
